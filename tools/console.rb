@@ -34,7 +34,7 @@ f10.join_cult(c3)
 f11.join_cult(c3)
 f11.join_cult(c2)
 f11.join_cult(c3)
-BloodOath.new(f7, c2, )
+BloodOath.new(f7, c2, "2001-09-11")
 
 
 # Insert code here to run before hitting the binding.pry
