@@ -127,8 +127,8 @@ Now we want to build out some useful features so `Cult`s and `Follower`s and get
 
 **`BloodOath`**
 
-<!-- * `BloodOath.first_oath`
-  * returns the `Follower` instance for the follower that made the very first blood oath -->
+* `BloodOath.first_oath`
+  * returns the `Follower` instance for the follower that made the very first blood oath
 
 ---
 

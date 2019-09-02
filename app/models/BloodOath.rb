@@ -4,7 +4,7 @@ class BloodOath
 
 attr_reader :initiation_date, :follower, :cult
 
-    def initialize(follower, cult, initiation_date = "2001-09-11")
+    def initialize(follower, cult, initiation_date = Time.now.strftime("%Y-%m-%d"))
     @initiation_date = initiation_date.to_s
     @follower = follower
     @cult = cult
